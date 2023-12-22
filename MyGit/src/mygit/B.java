@@ -1,7 +1,7 @@
 package mygit;
 
 public class B {
-	public void sayHello(String toWhom) {
-		System.out.println("Hello! " + toWhom);
+	public void sayHello(String Whom) {
+		System.out.println("Hello! " + Whom);
 	}
 }
