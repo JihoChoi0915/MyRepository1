@@ -5,10 +5,15 @@ public class A {
 		System.out.println("Hello Git!");
 		System.out.println("This is the 2nd version");
 
+
 		System.out.println("My first changed in master branch");
 
 		B say = new B();
 		say.sayHello("Hellooooo!");
+
+
+		C bye  = new C();
+		bye.sayBye("Bye");
 
 	}
 }
