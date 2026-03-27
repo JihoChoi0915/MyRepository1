@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: FeignLB
+
+server:
+  port: 8083
+
+eureka:
+  instance:
+    prefer-ip-address: true
