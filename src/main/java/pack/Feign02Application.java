@@ -11,6 +11,8 @@ public class Feign02Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(Feign02Application.class, args);
+		System.out.println("공부싫다");
+		
 	}
 
 }
